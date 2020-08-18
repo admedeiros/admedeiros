@@ -1,5 +1,9 @@
 ### Olá, sou André 👋
 ### Engenheiro Agrônomo apaixonado por tecnologia! 
+- :microscope: Doutorando em Fitotecnia na UFV.
+- :seedling: Pesquisador em tecnologia de sementes.
+- :computer: Estudante de programação nas horas vagas.
+
 
 
 ![admedeiros github stats](https://github-readme-stats.vercel.app/api?username=admedeiros&count_private=true)
