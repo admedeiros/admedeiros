@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá, sou André 👋
+### Engenheiro Agrônomo apaixonado por tecnologia! 
 
+
+![admedeiros github stats](https://github-readme-stats.vercel.app/api?username=admedeiros&count_private=true)
 <!--
 **admedeiros/admedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
